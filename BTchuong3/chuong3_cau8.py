@@ -1,0 +1,6 @@
+a = int(input("Nhập vào số a:"))
+b = int(input("Nhập vào số b:"))
+print("a+b=", a+b)
+print("a-b=", a-b)
+print("a*b=", a*b)
+print("a/b=", a/b)
